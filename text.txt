@@ -2,11 +2,3 @@ this is line 1git congit commit git add
 hhfhfhfhf
 this is line 3
 this is line in dsc branch 
-
-fgfgfgfgf
-
-ggdgdg
-
-
-this is master branch
-
